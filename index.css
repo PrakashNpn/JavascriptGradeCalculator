@@ -1,0 +1,29 @@
+body{
+    background-color: lightgray;
+}
+
+.container{
+    background-color: #082d51;
+    width: 55%;
+    height: auto;
+    border-radius: 15px;
+}
+.col-sm{
+    color: white;
+}
+.btn{
+    background-color: #023c73;
+    
+}
+.btn:hover{
+    background-color: #02305d;
+    
+}
+#gradeResult{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
